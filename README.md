@@ -1,6 +1,6 @@
-## Retirement Analysis
+# Retirement Analysis
 
-# PURPOSE
+## PURPOSE
 
 
 The written analysis has the following structure, organization, and formatting:
