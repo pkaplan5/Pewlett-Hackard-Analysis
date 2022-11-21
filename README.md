@@ -2,14 +2,19 @@
 
 ## Purpose of Analysis
 
-## Analysis Summary
-The written analysis has the following structure, organization, and formatting:
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
+The purpose of the analysis was to review human resource data at Pewlett Hackard to analyze the current employee population to see how many retirements were going to likley occur within the next few years and to make adequate perprations for the employee's succession.
 
-The written analysis has the following:
+
+## Analysis Summary
+
+** Analysis 1
+** Analysis 2
+** Analysis 3
+** Analysis 4
+
+
+
+
 Overview of the analysis:
 The purpose of the new analysis is well defined. (3 pt)
 Results:
