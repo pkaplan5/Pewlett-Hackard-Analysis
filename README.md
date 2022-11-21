@@ -7,10 +7,10 @@ The purpose of the analysis was to review human resource data at Pewlett Hackard
 
 ## Analysis Summary
 
-** Analysis 1
-** Analysis 2
-** Analysis 3
-** Analysis 4
+* Analysis 1
+* Analysis 2
+* Analysis 3
+* Analysis 4
 
 
 
