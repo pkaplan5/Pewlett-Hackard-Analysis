@@ -1,8 +1,8 @@
 # Retirement Analysis
 
-## PURPOSE
+## Purpose of Analysis
 
-
+## Analysis Summary
 The written analysis has the following structure, organization, and formatting:
 There is a title, and there are multiple sections. (2 pt)
 Each section has a heading and subheading. (2 pt)
